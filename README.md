@@ -1,4 +1,8 @@
-# 💤 LazyVim
+# My nvim config Why tf you use VsCode 
+- discord RPC
+- Monokai Theme
+- Java
+- python
+- react
+- ......many things i can't remember
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
